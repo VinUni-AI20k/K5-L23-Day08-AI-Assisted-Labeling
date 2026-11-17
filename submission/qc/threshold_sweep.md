@@ -4,7 +4,7 @@ Mục tiêu recall: 90%. Ảnh dùng để quét: 4.
 
 | Lớp | Ngưỡng gợi ý | Lý do |
 |---|---|---|
-| person | (mặc định) | không ngưỡng nào <= 0.5 đạt recall 90% (tối đa 81%, 36 vật): dùng ngưỡng mặc định, nói rõ trong báo cáo |
+| person | (mặc định) | không ngưỡng nào <= 0.5 đạt recall 90% (tối đa 78%, 41 vật): dùng ngưỡng mặc định, nói rõ trong báo cáo |
 | bicycle | (mặc định) | không ngưỡng nào <= 0.5 đạt recall 90% (tối đa 33%, 6 vật): dùng ngưỡng mặc định, nói rõ trong báo cáo |
 | motorbike | (mặc định) | không ngưỡng nào <= 0.5 đạt recall 90% (tối đa 70%, 23 vật): dùng ngưỡng mặc định, nói rõ trong báo cáo |
 | car | 0.5 | recall 90% (>= 90%), precision 69% (10 vật gold) |
