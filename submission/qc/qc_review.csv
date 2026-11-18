@@ -1,0 +1,12 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,bo_sot,2A202603128,người #19 đang đạp xe đạp nhưng thiếu box bicycle
+img_003.jpg,23,thua,2A202603128,trùng xe ba gác với #22 (giữ #22)
+img_003.jpg,26,thua,2A202603128,trùng xe ba gác với #22 (giữ #22)
+img_003.jpg,1,thua,2A202603128,three_wheeler 0.20 chồng lên xe máy đỗ #12; không có xe ba bánh
+img_003.jpg,2,thua,2A202603128,three_wheeler 0.18 mép trái; không có xe ba bánh
+img_003.jpg,25,thua,2A202603128,three_wheeler 0.25 chỗ người đi xe máy; không có xe ba bánh
+img_006.jpg,,khong,2A202603128,ngõ hẹp không có ô tô; xe máy đỗ và người đã đủ box
+img_031.jpg,475,thua,2A202603128,"person 0.34 nằm trên mũ lưỡi trai treo ở sạp, không phải người"
+img_035.jpg,547,thua,2A202603128,"three_wheeler 0.48 nằm trên toà nhà/biển hiệu, không có xe"
+img_014.jpg,151,thua,2A202603128,"three_wheeler nằm trên gánh hàng bên phải của quang gánh, không phải xe"
+img_014.jpg,152,thua,2A202603128,"three_wheeler nằm trên gánh hàng bên trái của quang gánh, không phải xe"
