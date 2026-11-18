@@ -4,8 +4,8 @@
 - MSHV: 2A202603128
 - Lớp (L2 / L3 / khác): L23
 - Tài khoản GitHub: suadaunanh
-- Repo bài nộp (URL): https://github.com/suadaunanh/K5-L23-Day08-2A202603128-HuynhNgocGiaHan-AI-Assisted-Labeling
-- Commit chốt bài (hash): xem commit cuối trên nhánh main (ghi lại sau khi push)
+- Repo bài nộp (URL): https://github.com/suadaunanh/K5-L23-Day08-2A202603128-HuynhNgocGiaHan-AIPrelabel
+- Commit chốt bài (hash): 7f34f58
 - Máy: macOS, Apple Silicon, 24 GB RAM, GPU qua MPS (không CUDA)
 - CVAT (Docker): v2.74.1
 
